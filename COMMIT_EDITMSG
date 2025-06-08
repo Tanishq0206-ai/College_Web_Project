@@ -1,0 +1,29 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	modified:   client/build/asset-manifest.json
+#	modified:   client/build/index.html
+#	modified:   client/build/static.zip
+#	new file:   client/build/static/css/main.672ac09b.css
+#	new file:   client/build/static/css/main.672ac09b.css.map
+#	deleted:    client/build/static/css/main.efe80838.css
+#	deleted:    client/build/static/css/main.efe80838.css.map
+#	renamed:    client/build/static/js/main.f4f7aee8.js -> client/build/static/js/main.b8d56500.js
+#	renamed:    client/build/static/js/main.f4f7aee8.js.LICENSE.txt -> client/build/static/js/main.b8d56500.js.LICENSE.txt
+#	new file:   client/build/static/js/main.b8d56500.js.map
+#	deleted:    client/build/static/js/main.f4f7aee8.js.map
+#	new file:   client/build/static/media/c9.5175c78e6e08175ecbd6.jpg
+#	modified:   client/public/index.html
+#	modified:   client/src/App.css
+#	modified:   client/src/components/SideBar.jsx
+#	modified:   client/src/components/Slider.js
+#	modified:   client/src/components/about-components/AboutInstitute.jsx
+#	modified:   client/src/components/department-components/DeptEventAnalysis.jsx
+#	new file:   client/src/images/Mous.jpg
+#	new file:   client/src/images/c9.jpg
+#	modified:   client/src/pages/Department.js
+#	modified:   client/src/pages/Home.js
+#
